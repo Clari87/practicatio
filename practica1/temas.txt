@@ -1,0 +1,6 @@
+-git
+-git hub
+-repositorio local
+-repositorio remoto
+-ramas (branch)
+-conflictos
