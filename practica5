@@ -1,0 +1,12 @@
+Comandos Básicos de Git
+git --version (Indica la versión instalada de Git)
+git init (Inicia un repositorio en el directorio donde se ejecuta el comando)
+git status (Inspeccionar repositorio Git)
+git add . (Añade todos los archivos que se encuentran dentro del directorio)
+git add <nombre del archivo> (Añade el archivo especificado al repositorio de Git)
+git rm --cached <nombre del archivo> (Deja de monitorear o de hacer el seguimiento a dicho archivo)
+git commit -m "<comentario>" (Permite especificar, a modo de comentario, los cambios realizados en el arhivo o proyecto)
+git config --global user.name "<nombre del usuario que está realizando los cambios>" (Para todos los proyectos que se relizarán)
+git config --global user.email "<email del usuario que está realizando los cambios>" (Para todos los proyectos que se relizarán)
+git config --local user.name "<nombre del usuario que está realizando los cambios>" (Solo para el proyeto actual)
+git config --local user.email "<email del usuario que está realizando los cambios>" (Solo para el proyecto actual)
